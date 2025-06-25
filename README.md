@@ -37,6 +37,18 @@ stop-word removal, stemming, and lemmatization.
 Utilized techniques like TF-IDF, Bag of Words,
 or Word Embeddings (e.g., Word2Vec, GloVe) to convert text into numerical vectors.
 
+VADER Sentiment Scoring
+VADER(Valence Aware Dictionary and Sentiment Reasoner)
+
+we will use NLTK SentimentIntensityAnalyzer to get neutral's(neu),negative's(neg) and positive(pos) scores of the text.
+
+if follow the graphs in the notebook:
+
+![image](https://github.com/user-attachments/assets/6b93b777-dd91-48c4-a12b-b7ff0aaa7e3d)
+
+![image](https://github.com/user-attachments/assets/9cce115b-aa04-4d25-aa9b-ddf933e6448f)
+
+
 ## Acknowledgements
 See this SQLite query for a quick sample of the dataset.
 
